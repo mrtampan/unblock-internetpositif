@@ -9,3 +9,22 @@ Tambahkan list di bawah ke `/etc/hosts`.
 2. Ketik `notepad %WinDir%\System32\Drivers\etc\hosts`
 
 3. Tambahkan list di bawah ini ke file `hosts`
+
+4. jika sudah ada filenya bisa diedit dengan file dari repository ini atau direplace 
+
+
+## Unblock Site
+
+- Binance
+- Vimeo
+- Reddit
+- Imgur
+- Github
+- DigitalOcean
+- NPM
+- Miscellaneous
+
+
+## Credit
+
+https://gist.github.com/mul14/eb05e88fcec5bb195cbb
