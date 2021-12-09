@@ -10,7 +10,7 @@ Tambahkan list di bawah ke `/etc/hosts`.
 
 3. Tambahkan list di bawah ini ke file `hosts`
 
-4. jika sudah ada filenya bisa diedit dengan file dari repository ini atau direplace 
+4. jika sudah ada filenya bisa diedit dengan file dari repository ini atau direplace langsung file hosts 
 
 
 ## Unblock Site
